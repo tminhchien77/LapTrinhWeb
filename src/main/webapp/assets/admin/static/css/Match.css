@@ -1,0 +1,217 @@
+.match-hero--pre-match .match-hero__container {
+  
+   -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 2.6rem 0;
+    position: relative;
+    margin-top: auto;
+    height: auto;
+    margin-bottom: auto;
+    padding-top: 6rem;
+	
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+.match-hero__competition-logo {
+    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    fill: #fff;
+    margin-bottom: .8rem;
+    width: 7rem;
+    height: 3.2rem;
+    overflow: hidden;
+	}
+	.visually-hidden, .visually-hidden-nav-item {
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    width: 1px;
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    visibility: hidden;
+	}
+	.match-hero__date {
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    box-sizing: border-box;
+    color: #fdc52c;
+    font-style: italic;
+    font-family: fcb-extra-bold,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    line-height: 3rem;
+    margin: 0 0 2rem;
+	}
+	fixture-info .js-fixture-info{
+	-webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1.6rem;
+	}
+	.fixture-info__team-container .fixture-info__team-container--home{
+	-webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    align-self: flex-start;
+    flex-direction: column;
+	}
+	.match-hero__name-events {
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 0;
+    order: 1;
+	}
+	  .fixture-info__name fixture-info__name--home{
+	  -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    font-family: fcb-extra-bold,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    align-self: center;
+    text-transform: uppercase;
+    color: #fff;
+    width: auto;
+    font-size: 3.2rem;
+    line-height: 3.4rem;
+    white-space: nowrap;
+    margin-left: auto;
+    text-align: center;
+	}
+	.fixture-info__badge .fixture-info__badge--home{
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    width: 8.8rem;
+    padding: 0;
+    margin: 0 0 .8rem;
+    height: 8.8rem;
+	}
+	.fixture-info__time-container{
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: fcb-bold,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    flex-basis: auto;
+    position: relative;
+    padding: 0 2rem;
+	}
+	.fixture-info__team-container .fixture-info__team-container--away{
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    align-self: flex-start;
+    flex-direction: column;
+	}
+	.fixture-info__badge .fixture-info__badge--away{
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    width: 8.8rem;
+    padding: 0;
+    margin: 0 0 .8rem;
+    height: 8.8rem;
+	}
+	.match-hero__name-events {
+	    -webkit-text-size-adjust: 100%;
+    direction: ltr;
+    font-size: 1.4rem;
+    -webkit-font-smoothing: antialiased;
+    font-family: fcb-regular,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 0;
+    order: 1;
+	}
